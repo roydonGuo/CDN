@@ -12,6 +12,6 @@
 ## 打标签
 
 ```shell
-git tag -a v1.3.0 -m "version 1.3"
-git push origin v1.3.0
+git tag -a v1.3.1 -m "version 1.3.1"
+git push origin v1.3.1
 ```
