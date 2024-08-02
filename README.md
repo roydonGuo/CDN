@@ -8,3 +8,10 @@
 `CDN@`后面是版本号，不带版本号默认就是最新资源
 
 ![about](/about.png)
+
+## 打标签
+
+```shell
+git tag -a v1.3.0 -m "version 1.3"
+git push origin v1.3.0
+```
